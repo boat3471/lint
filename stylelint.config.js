@@ -1,0 +1,24 @@
+module.exports = {
+    "processors": ["stylelint-processor-html"],
+    "extends": "stylelint-config-standard",
+    "rules": {
+        "indentation": 4,
+        "color-hex-case": "lower",
+        "no-eol-whitespace": true,
+        "no-extra-semicolons": true,
+        "declaration-colon-space-after": "always-single-line",
+        "no-missing-end-of-source-newline": null,
+        "comment-empty-line-before": null,
+        "rule-empty-line-before": null,
+        "declaration-empty-line-before": null,
+        "selector-pseudo-element-colon-notation": null,
+        "max-empty-lines": null,
+        "block-closing-brace-empty-line-before": "never",
+        "declaration-block-no-duplicate-properties": null,
+        "declaration-block-no-shorthand-property-overrides": null,
+        "at-rule-empty-line-before": null,
+        "media-feature-name-no-unknown": null,
+        "function-linear-gradient-no-nonstandard-direction": null,
+        "declaration-colon-newline-after": null
+    }
+};
