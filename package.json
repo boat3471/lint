@@ -1,5 +1,5 @@
 {
-  "name": "@xinwenchao/eslint",
+  "name": "@xinwenchao/lint",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,6 +23,6 @@
     "stylelint-config-standard": "^17.0.0",
     "stylelint-processor-html": "^1.0.0"
   },
-  "author": "xinwenchao",
+  "author": "wenchao.xin",
   "license": "ISC"
 }
