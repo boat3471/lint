@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/boat3471/code-review.git"
+    "url": "https://github.com/boat3471/lint.git"
   },
   "dependencies": {
     "eslint": "^4.3.0",
